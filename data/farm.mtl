@@ -1,0 +1,73 @@
+# Blender MTL File: 'eatsheep_farm_collection.blend'
+# Material Count: 7
+
+newmtl Material
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.020314 0.020314 0.020314
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+
+newmtl farm_barn
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd /home/jaha/Downloads/textures/farm_barn_D.tga
+
+newmtl farm_rocks
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd /home/jaha/Downloads/textures/farm_trees_rocks_flowers_D.tga
+map_d /home/jaha/Downloads/textures/farm_trees_rocks_flowers_A.jpg
+
+newmtl farm_silo
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd /home/jaha/Downloads/textures/farm_silo_D.tga
+
+newmtl farm_stump
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd /home/jaha/Downloads/textures/farm_haybale_stump_shovel_wheelbarrow_rake_D.tga
+
+newmtl farm_tractor
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd /home/jaha/Downloads/textures/farm_tractor_D.tga
+
+newmtl farm_tree
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd /home/jaha/Downloads/textures/farm_trees_rocks_flowers_D.tga
+map_d /home/jaha/Downloads/textures/farm_trees_rocks_flowers_A.jpg

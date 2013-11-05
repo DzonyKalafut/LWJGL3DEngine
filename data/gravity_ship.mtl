@@ -1,0 +1,23 @@
+# Blender MTL File: 'GravityShipModels.blend'
+# Material Count: 2
+
+newmtl Material
+Ns 266.666667
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /home/jaha/Documents/modely-hra/spaceship_ao.png
+map_Bump /home/jaha/Documents/modely-hra/spaceship_norm2.png
+
+newmtl Material.005
+Ns 427.450980
+Ka 0.000000 0.000000 0.000000
+Kd 0.017944 0.019930 0.035564
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd /home/jaha/Documents/modely-hra/spaceship_ao.png

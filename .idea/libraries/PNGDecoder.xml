@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="PNGDecoder">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lwjgl-2.9.0/PNGDecoder.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
