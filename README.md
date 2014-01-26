@@ -9,6 +9,6 @@ Project is only in the begining.
 
 Features implemeted so far
 -----------------------------
-* Simple loading of .obj 3D models
+* Loading of simple .obj 3D models
 * Basic rendering of textured models
 * Basic mouse movement 
